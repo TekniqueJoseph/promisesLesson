@@ -4,9 +4,7 @@
 body{
     background-image: linear-gradient(to right, indigo, lightskyblue);
 }
-.container{
-    
-}
+
 .menu-bar{
     display: flex;
     justify-content: space-between;
