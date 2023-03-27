@@ -10,7 +10,7 @@ body{
     justify-content: space-between;
     align-items: center;
     margin: 0 25px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 h1{
     text-align: center;
@@ -52,7 +52,7 @@ img{
 }
 .bottom{
     /* position: relative; */
-    margin-top: 5%;
+    margin-top: 10%;
     text-align: center;
     bottom: 0px;
 }
